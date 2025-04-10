@@ -1,1 +1,0 @@
-# network_config_medium-sized_company
